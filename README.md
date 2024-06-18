@@ -38,6 +38,9 @@ Climate Influence: The degree to which temperature and rainfall variations corre
 Understanding the historical yield patterns of cocoa and cassava and their relationship with climate variables is crucial for developing strategies to enhance agricultural productivity in Ondo State. 
 This research provides valuable insights that can guide farmers, policymakers, and stakeholders in making informed decisions to ensure sustainable agricultural development in the region.
 
+# TAKE A LOOK AT THE PAPER
+[Analysing the Impact of Precipitation and Temperature on Cassava and Cocoa Crop Yields in Ondo State](https://doi.org/10.51244/IJRSI.2023.1011007)
+
 ## Future Work
 Future research could expand this analysis by including additional climate variables such as humidity and wind speed, exploring the impact of agricultural practices, and applying more advanced machine learning techniques for yield prediction. 
 Continuous monitoring and data collection will be essential for adapting to climate change and improving crop resilience
